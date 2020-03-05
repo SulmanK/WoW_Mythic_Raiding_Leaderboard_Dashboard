@@ -7,7 +7,7 @@
 
 
 ## Objective
-* Deploy a dashboard that pulls data from an API and updates itself accordingly.
+* Deploy a dashboard that pulls real-time data from the Blizzard API. In this case, the data is from the Mythic Hall of Fame Leaderboard.
 	* [Dashboard](https://wow-bfa-mythic-raid-lbapp.herokuapp.com/)
 
 ## Background Information
