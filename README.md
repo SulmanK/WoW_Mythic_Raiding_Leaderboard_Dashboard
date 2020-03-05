@@ -1,4 +1,4 @@
-# WoW_Mythic_Raiding_Leaderboard_Dashboard
+# WoW: Mythic Raiding Leaderboard Dashboard Application
 
 <p align="center">
   <img width="600" height="406" src="assets/logo.jpg">
@@ -8,7 +8,7 @@
 
 ## Objective
 * Deploy a dashboard that pulls data from an API and updates itself accordingly.
-                      * [Dashboard](https://wow-bfa-mythic-raid-lbapp.herokuapp.com/)
+* [Dashboard](https://wow-bfa-mythic-raid-lbapp.herokuapp.com/)
 
 ## Background Information
 * World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMORPG), which set records for the most subscribers in a video game. There are many gameplay aspects in WoW, but for this analysis we'll focus on the mythic raiding leaderboard. Players coordinate amongst each other to defeat high-level enemies in a dungeon and are ranked accordingly. The leaderboard is split for the two factions playable in WoW: Alliance and Horde. 
