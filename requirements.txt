@@ -10,7 +10,7 @@ json5==0.8.5
 jsonlines==1.2.0
 jsonschema==3.0.2
 gunicorn==20.0.4
-numpy==1.16.5
+numpy==1.22.0
 
 pandas==0.25.1
 pandocfilters==1.4.2
